@@ -1,0 +1,1 @@
+python C:\projects\models\research\object_detection\model_main.py --pipeline_config_path=C:\projects\anidet\faster_rcnn_resnet101_voc07.config --model_dir=C:\projects\anidet\pre_trained_models\1 --num_train_steps=32000 --sample_1_of_n_eval_examples=1 --train_dir=C:\projects\anidet\CP --alsologtostderr

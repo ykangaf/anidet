@@ -1,0 +1,1 @@
+python C:\projects\models\research\object_detection\export_inference_graph.py --input_type=image_tensor --pipeline_config_path=C:\projects\anidet\faster_rcnn_resnet101_voc07.config --trained_checkpoint_prefix=C:\projects\anidet\pre_trained_models\faster_rcnn_resnet101_coco_2018_01_28\model.ckpt --output_directory=C:\projects\anidet\output_models
